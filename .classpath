@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry including="**/*.java" kind="src" path="src/main/java"/>
+	<classpathentry excluding="**/*.java|diagrams/" kind="src" path="src/main/resources"/>
+	<classpathentry including="**/*.java" kind="src" output="target/test-classes" path="src/test/java"/>
+	<classpathentry excluding="**/*.java" kind="src" output="target/test-classes" path="src/test/resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Activiti Designer Extensions"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/activiti-5.18.0/activiti-5.18.0/libs/activiti-bpmn-converter-5.18.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/activiti-5.18.0/activiti-5.18.0/libs/activiti-bpmn-converter-5.18.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/activiti-5.18.0/activiti-5.18.0/libs/activiti-bpmn-converter-5.18.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/activiti-5.18.0/activiti-5.18.0/libs/activiti-bpmn-layout-5.18.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/activiti-5.18.0/activiti-5.18.0/libs/activiti-bpmn-layout-5.18.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/activiti-5.18.0/activiti-5.18.0/libs/activiti-bpmn-layout-5.18.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/activiti-5.18.0/activiti-5.18.0/libs/activiti-bpmn-model-5.18.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/activiti-5.18.0/activiti-5.18.0/libs/activiti-bpmn-model-5.18.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/activiti-5.18.0/activiti-5.18.0/libs/activiti-bpmn-model-5.18.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/activiti-5.18.0/activiti-5.18.0/libs/activiti-camel-5.18.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/activiti-5.18.0/activiti-5.18.0/libs/activiti-camel-5.18.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/activiti-5.18.0/activiti-5.18.0/libs/activiti-camel-5.18.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/activiti-5.18.0/activiti-5.18.0/libs/activiti-cdi.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/activiti-5.18.0/activiti-5.18.0/libs/activiti-cdi-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/activiti-5.18.0/activiti-5.18.0/libs/activiti-cdi-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/activiti-5.18.0/activiti-5.18.0/libs/activiti-common-rest-5.18.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/activiti-5.18.0/activiti-5.18.0/libs/activiti-common-rest-5.18.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/activiti-5.18.0/activiti-5.18.0/libs/activiti-common-rest-5.18.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/activiti-5.18.0/activiti-5.18.0/libs/activiti-crystalball-5.18.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/activiti-5.18.0/activiti-5.18.0/libs/activiti-crystalball-5.18.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/activiti-5.18.0/activiti-5.18.0/libs/activiti-crystalball-5.18.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/activiti-5.18.0/activiti-5.18.0/libs/activiti-cxf-5.18.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/activiti-5.18.0/activiti-5.18.0/libs/activiti-cxf-5.18.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/activiti-5.18.0/activiti-5.18.0/libs/activiti-cxf-5.18.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/activiti-5.18.0/activiti-5.18.0/libs/activiti-diagram-rest-5.18.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/activiti-5.18.0/activiti-5.18.0/libs/activiti-diagram-rest-5.18.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/activiti-5.18.0/activiti-5.18.0/libs/activiti-diagram-rest-5.18.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/activiti-5.18.0/activiti-5.18.0/libs/activiti-engine-5.18.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/activiti-5.18.0/activiti-5.18.0/libs/activiti-engine-5.18.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/activiti-5.18.0/activiti-5.18.0/libs/activiti-engine-5.18.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/activiti-5.18.0/activiti-5.18.0/libs/activiti-explorer-5.18.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/activiti-5.18.0/activiti-5.18.0/libs/activiti-explorer-5.18.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/activiti-5.18.0/activiti-5.18.0/libs/activiti-explorer-5.18.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/activiti-5.18.0/activiti-5.18.0/libs/activiti-image-generator-5.18.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/activiti-5.18.0/activiti-5.18.0/libs/activiti-image-generator-5.18.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/activiti-5.18.0/activiti-5.18.0/libs/activiti-image-generator-5.18.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/activiti-5.18.0/activiti-5.18.0/libs/activiti-jmx-5.18.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/activiti-5.18.0/activiti-5.18.0/libs/activiti-jmx-5.18.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/activiti-5.18.0/activiti-5.18.0/libs/activiti-jmx-5.18.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/activiti-5.18.0/activiti-5.18.0/libs/activiti-json-converter-5.18.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/activiti-5.18.0/activiti-5.18.0/libs/activiti-json-converter-5.18.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/activiti-5.18.0/activiti-5.18.0/libs/activiti-json-converter-5.18.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/activiti-5.18.0/activiti-5.18.0/libs/activiti-ldap-5.18.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/activiti-5.18.0/activiti-5.18.0/libs/activiti-ldap-5.18.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/activiti-5.18.0/activiti-5.18.0/libs/activiti-ldap-5.18.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/activiti-5.18.0/activiti-5.18.0/libs/activiti-modeler-5.18.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/activiti-5.18.0/activiti-5.18.0/libs/activiti-modeler-5.18.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/activiti-5.18.0/activiti-5.18.0/libs/activiti-modeler-5.18.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/activiti-5.18.0/activiti-5.18.0/libs/activiti-mule-5.18.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/activiti-5.18.0/activiti-5.18.0/libs/activiti-mule-5.18.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/activiti-5.18.0/activiti-5.18.0/libs/activiti-mule-5.18.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/activiti-5.18.0/activiti-5.18.0/libs/activiti-osgi-5.18.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/activiti-5.18.0/activiti-5.18.0/libs/activiti-osgi-5.18.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/activiti-5.18.0/activiti-5.18.0/libs/activiti-osgi-5.18.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/activiti-5.18.0/activiti-5.18.0/libs/activiti-process-validation-5.18.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/activiti-5.18.0/activiti-5.18.0/libs/activiti-process-validation-5.18.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/activiti-5.18.0/activiti-5.18.0/libs/activiti-process-validation-5.18.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/activiti-5.18.0/activiti-5.18.0/libs/activiti-rest-5.18.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/activiti-5.18.0/activiti-5.18.0/libs/activiti-rest-5.18.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/activiti-5.18.0/activiti-5.18.0/libs/activiti-rest-5.18.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/activiti-5.18.0/activiti-5.18.0/libs/activiti-simple-workflow-5.18.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/activiti-5.18.0/activiti-5.18.0/libs/activiti-simple-workflow-5.18.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/activiti-5.18.0/activiti-5.18.0/libs/activiti-simple-workflow-5.18.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/activiti-5.18.0/activiti-5.18.0/libs/activiti-spring-5.18.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/activiti-5.18.0/activiti-5.18.0/libs/activiti-spring-5.18.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/activiti-5.18.0/activiti-5.18.0/libs/activiti-spring-5.18.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/libs/slf4j.api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/joda-time-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/libs/com.fasterxml.jackson.databind.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/jackson-core-2.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/jackson-annotations-2.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/libs/commons-lang3-3.0.jar"/>
+	<classpathentry kind="lib" path="C:/libs/h2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/mybatis-3.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/libs/jpos.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/diagrams"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
