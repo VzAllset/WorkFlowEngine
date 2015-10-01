@@ -1,0 +1,7 @@
+---
+  applications:
+ - name: WorkflowEngine
+   memory: 512M
+   instances: 1
+   host: WorkflowEngine
+   path: ./WorkflowEngineServices.war
